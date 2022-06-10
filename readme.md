@@ -3,7 +3,7 @@
 
 ### About Me
 - Auto-Didact 💻, BA Fine Arts Washington State University, Certified Art Teacher, 
-- I like to research the intersection of natural death and digital space in my spare time.
+- Futurism is neat. 
 
 ### My Projects/Skills
 - Check out my portfolio site: https://phillipdaum.github.io/portfolio/
