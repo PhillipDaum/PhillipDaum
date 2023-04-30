@@ -2,7 +2,7 @@
 
 ### About Me
 - Auto-Didact 📖, BA Fine Arts - Washington State University, Elementary School Art Teacher
-- I want to move into a career in project or program management in the tech or nonprofit industries.
+- I want to move into a career teaching adults in the tech or nonprofit industries.
 - Futurism is neat. I study the intersection of natural death and digital space in my spare time. It may be a big deal some day.
 
 ### Some Stuff
