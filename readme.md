@@ -13,6 +13,6 @@
 - I've begun participating in Hackathons!
   -   Call for Code Global Hackathon 2021 - 🌱 iplantit: https://github.com/PhillipDaum/iplantit
   -   DAO Global Hackathon 2021 - Humana: https://github.com/PhillipDaum/humana
-- Me learning JavaScript when I make time: http://www.phillipdaum.com/
+- Me learning JavaScript when I make time: https://phillipdaum.github.io/chat-rpg/
 - 📫 How to reach me: philgdaum@gmail.com
 
