@@ -9,9 +9,9 @@
 - I like 
   - building websites using Bootstrap, HTML, CSS, and JavaSript
   - designing documents in LaTeX
-### [phillipdaum.com](https://phillipdaum.com)
-  - General about me and links
-### [phildaum.art](https://phillipdaum.com)
-  - Portfolio site with some of my paintings
-### 📫 How to reach me: philgdaum@gmail.com
+- ### [phillipdaum.com](https://phillipdaum.com)
+General about me and links
+- ### [phildaum.art](https://phillipdaum.com)
+Portfolio site with some of my paintings
+- ### 📫 How to reach me: philgdaum@gmail.com
 
