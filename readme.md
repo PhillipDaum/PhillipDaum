@@ -4,7 +4,7 @@
 - Elementary school art teacher with more than 600 students
 - I love learning and teaching!
 - I am
-  - a creative critical thinker
+  - a creative, critical thinker
   - a Linux user, currently on Pop!_OS, I'm eying Nix
 - I like 
   - building websites using Bootstrap, HTML, CSS, and JavaSript
