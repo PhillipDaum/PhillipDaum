@@ -7,7 +7,7 @@
 - **I am**
   - 🧠 a creative, critical thinker 
   - 🎨 an artist
-  - 💻 a Linux user, **Pop!_OS,** learning **NixOS**
+  - 💻 a Linux user: **Pop!_OS,** learning **NixOS**
 - **I like** 
   - building websites using `Bootstrap`, `HTML`, `CSS`, and `JavaSript`
   - designing documents in `LaTeX`
