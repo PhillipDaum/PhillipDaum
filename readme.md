@@ -2,11 +2,12 @@
 
 ## About Me
 - **Elementary school art teacher with more than 600 students**
+  - Scrum and Kanban for classroom management    
 - **I love learning and teaching!**
 - **I am**
   - 🧠 a creative, critical thinker 
   - 🎨 an artist
-  - 💻 a Linux user, currently on *Pop!_OS,* I'm eying *Nix*
+  - 💻 a Linux user, **Pop!_OS,** learning **NixOS**
 - **I like** 
   - building websites using `Bootstrap`, `HTML`, `CSS`, and `JavaSript`
   - designing documents in `LaTeX`
