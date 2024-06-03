@@ -2,6 +2,7 @@
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - NixOS
 - LaTeX
 ## About Me
