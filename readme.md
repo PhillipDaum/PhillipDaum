@@ -3,7 +3,7 @@
 - CSS
 - JavaScript
 - Bootstrap
-- NixOS
+- Nix
 - LaTeX
 ## About Me
 - **I love learning!**
