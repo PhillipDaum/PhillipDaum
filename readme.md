@@ -2,10 +2,10 @@
 
 🌟 **Aspiring Full-Stack Developer** | 🎨 **Former Art Teacher** | 💻 **Lifelong Learner**
 
-## Technologies
+## Languages and Technologies
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
 - Linux (including NixOS)
 - LaTeX
