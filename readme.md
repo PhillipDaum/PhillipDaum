@@ -11,7 +11,7 @@
 - LaTeX
 
 ## About Me
-🎨 Artist and former elementary school art teacher turned full-stack developer with a knack for creativity and tech. I'm skilled in HTML, CSS, JavaScript, and Linux, and I'm diving into Python, React, and Node.js. I love building cool, functional websites and thrive in collaborative, creative environments. Always learning, always growing, and ready to bring innovative ideas to life!
+🎨 Artist and former elementary school art teacher turned developer with a knack for creativity and tech. I'm skilled in HTML, CSS, JavaScript, and Linux. I'm diving into React. I love building cool, functional websites and thrive in collaborative, creative environments. Always learning, always growing, and ready to bring innovative ideas to life!
 
 ## Hobbies & Interests
 - 🚴‍♂️ Biking
