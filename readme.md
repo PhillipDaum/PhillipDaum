@@ -4,6 +4,7 @@
 
 ## Languages and Technologies
 - JavaScript
+- React
 - HTML
 - CSS
 - Bootstrap
