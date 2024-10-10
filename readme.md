@@ -8,7 +8,8 @@
 - HTML
 - CSS
 - Bootstrap
-- Linux (including NixOS)
+- Nix
+- Linux
 - LaTeX
 
 ## About Me
