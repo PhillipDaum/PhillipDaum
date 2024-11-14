@@ -23,7 +23,7 @@
 - 🚴‍♂️ Biking
 - 🌊 Whitewater
 - 🎶 Playing Various Instruments (not expertly, but with enthusiasm!)
-  - Learning bluegrass banjo (three-finger style)
+  - 🪕 Learning bluegrass banjo (three-finger style)
 - 🌍 Traveling
 - 🎿🏂 Snow Sports
 - 📚 Continuous Learning
