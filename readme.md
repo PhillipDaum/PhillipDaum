@@ -14,7 +14,8 @@
 - LaTeX
 
 ## About Me
-🎨 Artist and former elementary school art teacher (Agile inspired classroom management for the win!) turned developer, blending creativity and technology. Skilled in JavaScript, HTML, CSS, React, and Linux, I enjoy building functional, user-centered websites and thrive in collaborative, innovative environments. With a knack for leveraging generative AI, I accelerate the development process, transforming project ideas into functional apps quickly and efficiently.
+🎨 Artist and former elementary school art teacher turned developer, blending creativity and technology. Skilled in JavaScript, HTML, CSS, React, and Linux, I enjoy building functional, user-centered websites and thrive in collaborative, innovative environments. With a knack for leveraging generative AI, I accelerate the development process, transforming project ideas into functional apps quickly and efficiently.
+- Agile inspired classroom management for the win!
 
 📈 Passionate about exploring the intersection of natural death and technology, with a growing interest in Web3, decentralized identity, and developing dApps focused on post-mortem asset management.
 
