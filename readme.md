@@ -1,6 +1,6 @@
 # Phil Daum
 
-🌟 **Aspiring Full-Stack Developer** | 🎨 **Former Art Teacher** | 💻 **Lifelong Learner**
+🌟 **Developer** | 🎨 **Artist/Art Teacher** | 💻 **Lifelong Learner**
 
 ## Languages and Technologies
 - JavaScript
@@ -13,13 +13,18 @@
 - LaTeX
 
 ## About Me
-🎨 Artist and former elementary school art teacher turned developer with a knack for creativity and tech. I'm skilled in HTML, CSS, JavaScript, and Linux. I'm diving into React. I love building cool, functional websites and thrive in collaborative, creative environments. Always learning, always growing, and ready to bring innovative ideas to life!
+🎨 Artist and former elementary school art teacher turned developer, blending creativity and technology. Skilled in JavaScript, HTML, CSS, React, and Linux, I enjoy building functional, user-centered websites and thrive in collaborative, innovative environments. 
+- Agile inspired clasroom management for the win!
+
+📈 I’m passionate about exploring the intersection of natural death and technology, with a growing interest in Web3, decentralized identity, and developing dApps focused on post-mortem asset management.
 
 ## Hobbies & Interests
 - 🚴‍♂️ Biking
 - 🌊 Whitewater Rafting
 - 🎶 Playing Various Instruments (not expertly, but with enthusiasm!)
+  - Learning bluegrass banjo (three-finger style)
 - 🌍 Traveling
+- 🎿🏂 Snow Sports
 - 📚 Continuous Learning
 
 ## Connect with Me
@@ -27,4 +32,5 @@
 
 ---
 
-Feel free to reach out if you want to collaborate or just chat about tech, teaching, or any of my hobbies!
+Feel free to reach out if you want to collaborate or just chat about tech, teaching, or any of my hobbies.
+
