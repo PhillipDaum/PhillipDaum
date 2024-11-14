@@ -14,13 +14,13 @@
 
 ## About Me
 🎨 Artist and former elementary school art teacher turned developer, blending creativity and technology. Skilled in JavaScript, HTML, CSS, React, and Linux, I enjoy building functional, user-centered websites and thrive in collaborative, innovative environments. 
-- Agile inspired clasroom management for the win!
+- Agile inspired classroom management for the win!
 
-📈 I’m passionate about exploring the intersection of natural death and technology, with a growing interest in Web3, decentralized identity, and developing dApps focused on post-mortem asset management.
+📈 Passionate about exploring the intersection of natural death and technology, with a growing interest in Web3, decentralized identity, and developing dApps focused on post-mortem asset management.
 
 ## Hobbies & Interests
 - 🚴‍♂️ Biking
-- 🌊 Whitewater Rafting
+- 🌊 Whitewater
 - 🎶 Playing Various Instruments (not expertly, but with enthusiasm!)
   - Learning bluegrass banjo (three-finger style)
 - 🌍 Traveling
