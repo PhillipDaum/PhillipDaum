@@ -1,6 +1,6 @@
 # Phil Daum
 
-🌟 **Developer** | 🎨 **Artist/Art Teacher** | 💻 **Lifelong Learner**
+🎨 **Artist/Art Teacher** | 💻 **Lifelong Learner**
 
 ## Languages and Technologies
 - JavaScript
