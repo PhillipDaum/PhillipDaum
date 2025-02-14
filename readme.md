@@ -4,6 +4,7 @@
 
 ## Languages and Technologies
 - JavaScript
+- SQL
 - React
 - Generative AI
 - HTML
