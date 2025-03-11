@@ -1,36 +1,32 @@
-# Phil Daum
+# Phil Daum  
 
-🎨 **Artist/Art Teacher** | 💻 **Lifelong Learner**
+💻 **Full-Stack Developer** | 🎨 **Creative Problem-Solver** | 🐧 **Linux Enthusiast**  
 
-## Languages and Technologies
-- JavaScript
-- SQL
-- React
-- Generative AI
-- HTML
-- CSS
-- Bootstrap
-- Nix
-- Linux
-- LaTeX
+## Tech Stack  
+- **Frontend:** JavaScript, React, HTML, CSS  
+- **Backend:** SQL, Node.js  
+- **DevOps & OS:** Linux, NixOS  
+- **Other:** Generative AI, LaTeX  
 
-## About Me
-🎨 Artist and former elementary school art teacher turned developer, blending creativity and technology. Skilled in JavaScript, HTML, CSS, React, and Linux, I enjoy building functional, user-centered websites and thrive in collaborative, innovative environments. With a knack for leveraging generative AI, I accelerate the development process, transforming project ideas into functional apps quickly and efficiently.
-- Agile inspired classroom management for the win!
+## About Me  
+Former elementary school art teacher turned full-stack developer, combining creativity with technical expertise to build innovative, user-friendly solutions. Experienced in Agile-inspired workflows, I thrive in fast-paced, collaborative environments and love solving complex problems with clean, efficient code.  
 
-## Hobbies & Interests
-- 🚴‍♂️ Biking
-- 🌊 Whitewater
-- 🎶 Playing Various Instruments (not expertly, but with enthusiasm!)
-  - 🪕 Learning bluegrass banjo (three-finger style)
-- 🌍 Traveling
-- 🎿🏂 Snow Sports
-- 📚 Continuous Learning
+## Highlights  
+🏆 **Focus Fox** – Award-winning project at the Girl Develop It Hackathon  
+<!-- switch to site later -->
+<!-- 📸 (*[See award](./award-image.png)*)   -->
+🖼️ **Hurricane Art Fundraiser** – Led a student-driven initiative using Agile methods, featured in [Houston ISD News](https://blogs.houstonisd.org/news/2017/09/28/hurricane-art-by-hisd-students-on-sale-to-raise-money-for-hurricane-relief/)   
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phil%20Daum-blue)](https://www.linkedin.com/in/daumphil/)
+## Hobbies & Interests  
+- 🚴‍♂️ Biking & Whitewater Adventures  
+- 🎿🏂 Snow Sports  
+- 🎶 Playing Music (with enthusiasm!)  
+- 🌍 Traveling & Exploring  
+- 📚 Continuous Learning  
 
----
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phil%20Daum-blue)](https://www.linkedin.com/in/daumphil/)  
 
-Feel free to reach out if you want to collaborate or just chat about tech, teaching, or any of my hobbies.
+---  
 
+Open to collaborations and conversations about tech, teaching, and all things creative. Let’s build something amazing! 🚀  
